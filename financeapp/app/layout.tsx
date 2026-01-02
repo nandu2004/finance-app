@@ -10,8 +10,8 @@ const ibmPlexSerif = IBM_Plex_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "finn",
-  description: "a modern banking platform,introducing finn",
+  title: "finapp",
+  description: "finapp is a modern banking platform for everyone.",
   icons: {
     icon: "/icons/logo.svg",
   },
